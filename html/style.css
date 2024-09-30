@@ -49,6 +49,10 @@ ol {
     background: rgb(3, 3, 3);
     padding: 15px;
     color: #ffffff;
+    text-align: center;
+    list-style: none;
+    font-size: large;
+    line-height: 30px;
 }
 
 footer {
